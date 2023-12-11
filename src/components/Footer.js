@@ -1,22 +1,21 @@
 import React from "react";
-import InstagramIcon from "@material-ui/icons/Instagram";
-import TwitterIcon from "@material-ui/icons/Twitter";
-import FacebookIcon from "@material-ui/icons/Facebook";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import "../styles/Footer.css";
 
 function Footer() {
+  const linkedinProfileUrl = "https://www.linkedin.com/in/jorell-raka-b935a7199/";
+
   return (
     <div className="footer">
       <div className="socialMedia">
-        <InstagramIcon />
-        <TwitterIcon />
-        <FacebookIcon />
-        <LinkedInIcon />
+        <a href={linkedinProfileUrl} target="_blank" rel="noopener noreferrer">
+          <LinkedInIcon />
+        </a>
       </div>
-      <p> &copy; 2022 pedrotech.com</p>
+      <p> &copy; 2023 Jorell Tanusaputra.com</p>
     </div>
   );
 }
 
 export default Footer;
+

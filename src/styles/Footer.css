@@ -26,3 +26,9 @@
     font-size: 50px;
   }
 }
+
+/* Footer.css */
+.socialMedia a {
+  text-decoration: none;
+  color: #0077b5; /* LinkedIn blue color */
+}
