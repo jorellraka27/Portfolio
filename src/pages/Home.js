@@ -41,26 +41,47 @@ function Home() {
           </p>
         </div>
       </div>
-      <div className="skills">
-        <h1> Skills</h1>
+
+
+      
+      <div className="Factsaboutme">
+        <h1> Facts about me </h1>
         <ol className="list">
           <li className="item">
-            <h2> Front-End</h2>
-            <span>
-              ReactJS, Angular, Redux, HTML, CSS, React Native, Flutter, NPM,
-              Ionic, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
-            </span>
+          <h2> Education/Certification</h2>
+  <ul>
+    <li>
+      <span>Bachelor of Forensic Science, University of Technology Sydney, 2020-2023</span>
+    </li>
+    <li>
+      <span>Diploma in Innovation, University of Technology Sydney, 2020-2023</span>
+    </li>
+    <li>
+      <span>COMPTIA SECURITY + Certification Validity: 2023-2025</span>
+    </li>
+  </ul>
           </li>
           <li className="item">
-            <h2>Back-End</h2>
-            <span>
-              NodeJS, Java Spring, .NET, ExpressJS, GraphQL, ApolloServer,
-              MySQL, MongoDB, DynamoDB, DigitalOcean, AWS S3, MS SQL
-            </span>
+            <h2>Skills</h2>
+            <li>
+      <span>Programming: Python, MATLAB, Java, Javascript, R, and C#</span>
+    </li>
+    <li>
+      <span>Cybersecurity: Kalilinux, nmap, ncat, sqlmap, powershell, JOhn the ripper, aircrack-ng, Autopsy</span>
+    </li>
+    <li>
+      <span>Networking: Wireshark, Cisco Packet Tracer</span>
+    </li>
+    <li>
+      <span>OS: Microsoft, Ubuntu, MacOS</span>
+    </li>
+    <li>
+      <span>CLI: Cmd, Bash, Powershell</span>
+    </li>
           </li>
           <li className="item">
-            <h2>Languages</h2>
-            <span>JavaScript, Java, Python, C#, C, C++, TypeScript, Go</span>
+            <h2>Hobbies</h2>
+            <span>Food, Gym, Soccer and Playing guitar</span>
           </li>
         </ol>
       </div>
