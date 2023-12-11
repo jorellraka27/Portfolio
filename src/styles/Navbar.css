@@ -4,13 +4,13 @@
   background: #2e74d7;
 }
 .navbar a:hover {
-  /* Change the color and add other styles as desired */
+  /* Change the color and add other styles as desired when hovered over*/
   background-color: #1a4b8d;
   color: #ffffff;
 }
 
 @media only screen and (min-width: 600px) {
-  /* Add a hover effect for larger screens if needed */
+  /* Add a hover effect for larger screens if needed when hovered over --> for smaller screen*/
   .navbar a:hover {
     /* Change the color and add other styles as desired */
     background-color: #1a4b8d;
