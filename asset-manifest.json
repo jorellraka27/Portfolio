@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cart-react/static/css/main.05dfdc1c.css",
+    "main.js": "/cart-react/static/js/main.88f4c2cc.js",
+    "static/js/787.fb771931.chunk.js": "/cart-react/static/js/787.fb771931.chunk.js",
+    "static/media/AR.png": "/cart-react/static/media/AR.70d3ceb020982d171178.png",
+    "static/media/chemistry.jpg": "/cart-react/static/media/chemistry.d24feaf049e6af5a83f3.jpg",
+    "static/media/words.jpeg": "/cart-react/static/media/words.511dee2b524f957054ae.jpeg",
+    "index.html": "/cart-react/index.html",
+    "main.05dfdc1c.css.map": "/cart-react/static/css/main.05dfdc1c.css.map",
+    "main.88f4c2cc.js.map": "/cart-react/static/js/main.88f4c2cc.js.map",
+    "787.fb771931.chunk.js.map": "/cart-react/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05dfdc1c.css",
+    "static/js/main.88f4c2cc.js"
+  ]
+}
