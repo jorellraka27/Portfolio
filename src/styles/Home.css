@@ -1,89 +1,126 @@
 .home {
-  width: 100%;
-  align-items: center;
-  font-family: "Arial", sans-serif;
-  color: #ffffff;
-  background-color: #272626;
-
-}
-
-.about {
-  width: 100%;
-  height: calc(100vh - 100px);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  background-color: #27272f;
-  color: #ffffff;
-}
-
-.about h2 {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 80px;
-  color: #2e74d7;
-  height: 50px;
-}
-
-.about .prompt {
-  width: 40%;
-  font-size: 30px;
-}
-.prompt svg {
-  font-size: 60px;
-  margin: 5px;
-  color: #2e74d7;
-}
-
-.Factsaboutme {
-  font-size: 35px;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  background-color: #ffffff;
-  color: #131212;
-
-}
-
-.Factsaboutme h1 {
-  color: #2e74d7;
-}
-.Factsaboutme h2 {
-  color: #2e74d7;
-}
-.Factsaboutme .list {
-  list-style: none;
-  width: 60%;
-  padding: 0;
-}
-
-
-.Factsaboutme span {
-  font-size: 20px;
-}
-
-@media only screen and (max-width: 600px) {
-  .about h2 {
-    font-size: 40px;
+    width: 100%;
+    align-items: center;
+    font-family: "Arial", sans-serif;
+    color: #ffffff;
+    background-color: #272626;
   }
-
-  .about .prompt {
-    margin-top: 10px;
-    font-size: 20px;
-    width: 80%;
-  }
-
-  .skills {
+  
+  .about {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    background-color: #27272f;
+    color: #ffffff;
   }
-  .list {
+  
+  .about h2 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: #2e74d7;
+    height: 50px;
+  }
+  
+  .about .prompt {
+    width: 40%;
+    font-size: 20px;
+  }
+  
+  .prompt svg {
+    font-size: 60px;
+    margin: 5px;
+    color: #2e74d7;
+  }
+  
+  .Factsaboutme {
+    font-size: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    color: #131212;
+  }
+  
+  .Factsaboutme h1,
+  .Factsaboutme h2 {
+    color: #2e74d7;
+    font-size: 50px;
+
+  }
+  
+  .Factsaboutme .list {
+    list-style: none;
+    width: 60%;
     padding: 0;
   }
-
-  .skills h2 {
-    font-size: 30px;
+  
+  .Factsaboutme span {
+    font-size: 20px;
   }
-}
+  
+  @media only screen and (max-width: 800px) {
+    .about h2 {
+      font-size: 20px;
+    }
+  
+    .about .prompt {
+      margin-top: 10px;
+      font-size: 15px;
+      width: 80%;
+    }
+  
+    .home {
+      /* Add responsive styles for the .home class */
+      padding: 10px; /* Adjust the padding as needed */
+    }
+  
+    /* Add other responsive styles for other elements if necessary */
+
+    .Factsaboutme {
+        font-size: 8px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        background-color: #ffffff;
+        color: #131212;
+        margin: 0px;
+        padding: 0px;
+      }
+      
+      .Factsaboutme h1,
+      .Factsaboutme h2 {
+        color: #2e74d7;
+        font-size: 15px;
+    
+      }
+      
+      .Factsaboutme .list {
+        list-style: none;
+        padding: 0px;
+      }
+      
+      .Factsaboutme span {
+        font-size: 15px;
+      }
+
+      .socialMedia a {
+        margin: 0 5px; /* Adjust spacing for smaller screens */
+      }
+    
+      .socialMedia svg {
+        width: 16px; /* Set a smaller width for the icons on smaller screens */
+        height: 16px; /* Set a smaller height for the icons on smaller screens */
+      }
+      .item li {
+        margin-bottom: 10px;
+      }
+  }
+  

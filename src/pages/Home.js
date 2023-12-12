@@ -46,6 +46,8 @@ function Home() {
       <div className="Factsaboutme">
         <h1> Facts about me </h1>
         <ol className="list">
+
+
           <li className="item">
           <h2> Education/Certification</h2>
   <ul>
@@ -60,6 +62,9 @@ function Home() {
     </li>
   </ul>
           </li>
+
+
+
           <li className="item">
             <h2>Skills</h2>
             <li>
@@ -78,10 +83,16 @@ function Home() {
       <span>CLI: Cmd, Bash, Powershell</span>
     </li>
           </li>
+
+
+
+
           <li className="item">
             <h2>Hobbies</h2>
             <span>Food, Gym, Soccer and Playing guitar</span>
           </li>
+
+          
         </ol>
       </div>
     </div>
