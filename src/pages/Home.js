@@ -42,7 +42,6 @@ function Home() {
         </div>
       </div>
 
-
       
       <div className="Factsaboutme">
         <h1> Facts about me </h1>
@@ -67,7 +66,7 @@ function Home() {
       <span>Programming: Python, MATLAB, Java, Javascript, R, and C#</span>
     </li>
     <li>
-      <span>Cybersecurity: Kalilinux, nmap, ncat, sqlmap, powershell, JOhn the ripper, aircrack-ng, Autopsy</span>
+      <span>Cybersecurity: Kalilinux, nmap, ncat, sqlmap, powershell, John the ripper, aircrack-ng, Autopsy</span>
     </li>
     <li>
       <span>Networking: Wireshark, Cisco Packet Tracer</span>

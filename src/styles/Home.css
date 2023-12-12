@@ -2,7 +2,9 @@
   width: 100%;
   align-items: center;
   font-family: "Arial", sans-serif;
-  color: #080808;
+  color: #ffffff;
+  background-color: #272626;
+
 }
 
 .about {
@@ -13,8 +15,8 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: #ffffff;
-  color: #1b1a1a;
+  background-color: #27272f;
+  color: #ffffff;
 }
 
 .about h2 {
@@ -41,7 +43,8 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: #eef1ff;
+  background-color: #ffffff;
+  color: #131212;
 
 }
 
