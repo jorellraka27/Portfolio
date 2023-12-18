@@ -1,6 +1,7 @@
 import Proj1 from "../assets/AR.png";
 import Proj2 from "../assets/chemistry.jpg";
 import Proj3 from "../assets/words.jpeg";
+import Proj4 from "../assets/website.png";
 
 
 export const ProjectList = [
@@ -23,6 +24,14 @@ export const ProjectList = [
     image: Proj3,
     skills: "Python",
     gitlink:"https://github.com/jorellraka27/Chemistry-Quiz-Program.git"
+
+  },
+
+  {
+    name: "Building this portfolio website",
+    image: Proj4,
+    skills: "Reactjs, css",
+    gitlink:"https://github.com/jorellraka27/Portfolio.git"
 
   }
 ];

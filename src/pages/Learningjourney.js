@@ -116,7 +116,7 @@ function Learningjourney() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date= "March 2020"
+          date= "December 2023"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
