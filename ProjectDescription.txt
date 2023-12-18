@@ -1,0 +1,13 @@
+This project is a modification of the github repo https://github.com/machadop1407/react-personal-portfolio-website by pedrotech.
+I added more features which includes:
+- Adding hilight feature in the navigation bare
+- Links to my email, instagram and linkedin
+- Adding icons to the footer
+- Changing the CSS of the home page to make it more of my prefered design
+- Added CSS file to the Learning Journey to make it more of my preffered design
+- Fix the rendering problem of the website, so that it can be viewed both from computer and mobile
+- Further refining the project page by adding github links to the github icon
+
+For further information of the modifications you can check out the commits history I have recorded in https://github.com/jorellraka27/Portfolio/commits/master/
+
+Thanks!
