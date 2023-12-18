@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2f6bcf96.css",
+    "main.css": "/Portfolio/static/css/main.c2bdb9d7.css",
     "main.js": "/Portfolio/static/js/main.12e29321.js",
     "static/js/787.fb771931.chunk.js": "/Portfolio/static/js/787.fb771931.chunk.js",
     "static/media/AR.png": "/Portfolio/static/media/AR.70d3ceb020982d171178.png",
@@ -8,12 +8,12 @@
     "static/media/chemistry.jpg": "/Portfolio/static/media/chemistry.d24feaf049e6af5a83f3.jpg",
     "static/media/words.jpeg": "/Portfolio/static/media/words.511dee2b524f957054ae.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.2f6bcf96.css.map": "/Portfolio/static/css/main.2f6bcf96.css.map",
+    "main.c2bdb9d7.css.map": "/Portfolio/static/css/main.c2bdb9d7.css.map",
     "main.12e29321.js.map": "/Portfolio/static/js/main.12e29321.js.map",
     "787.fb771931.chunk.js.map": "/Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f6bcf96.css",
+    "static/css/main.c2bdb9d7.css",
     "static/js/main.12e29321.js"
   ]
 }
