@@ -74,7 +74,7 @@
   .projectItem .bgImage {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    width: 200px;
+    width: 250px;
     height: 200px;
     background-position: center;
     background-repeat: no-repeat;
@@ -83,7 +83,7 @@
   .projectItem {
     border-radius: 15px;
     width: 250px;
-    height: 250px;
+    height: 350px;
     margin: 40px;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
     text-align: center;
